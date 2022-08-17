@@ -14,7 +14,7 @@ Open the **Calculate Footprints** application from your dashboard and select the
  
 *Note: Do not add the product group COOKIE as it's a Manufactured Product.*
 
-3. Set the **Calculation Period** to Jan 1, 2022 to June 31, 2022.
+3. Set the **Calculation Period** to Jan 1, 2022 to June 30, 2022.
 4. Set the **Calculation Interval** to 1.
 5. Choose the **Configure Mappings** button under the _Mappings_ section. You will now be navigated to the page for mapping Emission Factors with Purchased Prodcuts.
     -  Select the **Upload Data** button.
