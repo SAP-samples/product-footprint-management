@@ -7,6 +7,7 @@ The SAP Product Footprint Management solution helps you calculate carbon footpri
 Our actual APIs are provided on [SAP API Business Hub](https://api.sap.com/package/SAPProductFootprintManagement/all). 
 
 ---
+**Note: Before you start with the process described below, ensure that you clone this repository or download a .zip file of it so you have all the files you need at hand.**
 
 ## **Calculating Footprints**
 
