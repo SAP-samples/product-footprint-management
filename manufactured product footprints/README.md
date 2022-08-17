@@ -6,7 +6,7 @@
 2. Under the **Plants** section, select the **Add** button and choose the plant "1010".
 3. Under the **Product Groups** section, select the **Add** button and choose the following products:
     - COOKIE
-4. Set the **Calculation Period** to Jan 1,2022 to Mar 31,2022.
+4. Set the **Calculation Period** to Jan 1,2022 to June 30,2022.
 5. Set the **Calculation Interval** to 1.
 6. Select the **Validate** button from the action buttons on the top row. 
     - Verify that the validation is successful. If it is, you will see a success message in the footer.
