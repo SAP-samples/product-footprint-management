@@ -6,7 +6,7 @@ After the calculation is completed, the results can be viewed in the **Monitor F
 
 **Note: This application can also be accessed directly from the SAP Product Footprint Management launchpad.**
 
-![NavigateToMonitorFootprints](../images/NavigateToMonitorFootprints.gif)
+![NavigationToMonitorFootprints](../images/NavigationToMonitorFootprints.gif)
 
 You can also filter your results to check for specific types of footprint calculations such as purchased or manufactured products as follows.
 
