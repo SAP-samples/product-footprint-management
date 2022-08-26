@@ -1,3 +1,4 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/product-footprint-management)](https://api.reuse.software/info/github.com/SAP-samples/product-footprint-management)
 # **SAP Product Footprint Management**
 
 ## **Introduction**
