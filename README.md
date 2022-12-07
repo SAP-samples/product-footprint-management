@@ -27,5 +27,8 @@ You can perform these steps once the footprint calculation for your purchased pr
 ### **Viewing Footprint Calculation Results**
 After you finish calculating your footprints, you can view the results in the **Monitor Footprints** application. For more information, see [View Footprints](./view%20footprints/).
 
+### **Analyzing Footprints**
+Once your footprints are calculated, you can use SAP Analytics Cloud to view pre-shipped dashboards and charts with important KPIs. This can only be done if you already have a license for SAP Analytics Cloud. For more information, see [Analyze Footprints](./analyze%20footprints/).
+
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
